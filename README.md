@@ -36,15 +36,11 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beadobruski&layout=compact&langs_count=7&theme=buefy"/>
 </div>
 
-
-  
-  ##
   
 <p align="center">“As we look ahead into the next century, leaders will be those who empower others.”</p>
   <p align="center"><i>Bill Gates</i></p>
 
 
-<br>
 <br>
 <p align="center">	:rocket:</p>
 <br>
