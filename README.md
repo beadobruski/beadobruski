@@ -5,7 +5,8 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/3eK7AAn.jpeg">
+  <img src="https://i.imgur.com/DzGtHU8.gif">
+  
 </div>
 
 <div align="center">
@@ -49,3 +50,4 @@
   <p>:rainbow::cat::libra:</p>
 </div>
 
+<img width="10%" src="https://i.giphy.com/media/gM5qFksULw54NMWyry/giphy.webp">
