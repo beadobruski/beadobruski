@@ -50,4 +50,4 @@
   <p>:rainbow::cat::libra:</p>
 </div>
 
-<img width="10%" src="https://i.giphy.com/media/gM5qFksULw54NMWyry/giphy.webp">
+
