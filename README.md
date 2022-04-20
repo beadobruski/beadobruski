@@ -11,16 +11,9 @@
 
 <div align="center">
   <h2>Hello, folks. I'm Bea :beverage_box:</h2>
-  <p>Nowadays, I'm studying HTML, CSS & JavaScript, very soon it's gonna be ReactJS.</p>
+  <p>Nowadays, I'm studying JavaScript, ReactJS & TypeScript at the moment.</p>
   <p>I always liked technology.	:earth_africa: When I found out that I can do amazing things with this, my perception changed.</p>
   
-
-  
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="bea-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="bea-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="bea-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
   
 
   
