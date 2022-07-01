@@ -11,7 +11,7 @@
 
 <div align="center">
   <h2>Hello, folks. I'm Bea :beverage_box:</h2>
-  <p>Nowadays, I'm studying JavaScript, ReactJS & TypeScript!</p>
+  <p>Nowadays, I'm studying JavaScript, React & TypeScript!</p>
   <p>I always liked technology.	:earth_africa: When I found out that I can do amazing things with this, my perception changed.</p>
   
   
