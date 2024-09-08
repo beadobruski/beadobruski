@@ -13,7 +13,7 @@
 </div>
  
 
-  <h2>Hello, folks. <img width="45rem" src="https://64.media.tumblr.com/a77fe63f35eafbe14be38765babf1cb2/ec4eb63d77592970-8f/s1280x1920/cb3343c17d8b4e6010ca747520d078d3dba9ac25.gifv"> I'm Bea, a Front-End Developer </h2>
+  <h2>Hello, folks. I'm Bea, a Front-End Developer </h2>
   <p>:earth_africa: I'm a front-end developer that loves writing codes. I started with my journey in 2021, when a friend of mine told me to study about programming. I always liked technology and I'm a very curious person who loves to learn. When I found out that I can do amazing things with this, my perception changed. I am always open for collab's and project's in React or Javascript vanilla.  
   
   <h4>Curiositie's about me </h4>
